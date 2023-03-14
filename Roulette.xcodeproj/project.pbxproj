@@ -11,6 +11,21 @@
 		2879B56829AF2A3800446474 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2879B56729AF2A3800446474 /* ContentView.swift */; };
 		2879B56A29AF2A3B00446474 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2879B56929AF2A3B00446474 /* Assets.xcassets */; };
 		2879B56D29AF2A3B00446474 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2879B56C29AF2A3B00446474 /* Preview Assets.xcassets */; };
+		2879B57429AF2C3700446474 /* Number_Model.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2879B57329AF2C3700446474 /* Number_Model.swift */; };
+		2879B57629AF2D2400446474 /* Number_arrary.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2879B57529AF2D2400446474 /* Number_arrary.swift */; };
+		2879B57829B353FF00446474 /* Number_Button.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2879B57729B353FF00446474 /* Number_Button.swift */; };
+		2879B57A29B3779700446474 /* TwoToOne_Button.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2879B57929B3779700446474 /* TwoToOne_Button.swift */; };
+		2879B58229B382ED00446474 /* OneToNumber_Button.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2879B58129B382ED00446474 /* OneToNumber_Button.swift */; };
+		2879B58429B3830400446474 /* Color_Button.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2879B58329B3830400446474 /* Color_Button.swift */; };
+		2879B58629B3831D00446474 /* OddEven_Button.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2879B58529B3831D00446474 /* OddEven_Button.swift */; };
+		2879B58929B38B6D00446474 /* Chips_Button.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2879B58829B38B6D00446474 /* Chips_Button.swift */; };
+		2879B59029B6E7A000446474 /* ChoseArray_Model.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2879B58F29B6E7A000446474 /* ChoseArray_Model.swift */; };
+		2879B59429B8791F00446474 /* RouletteView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2879B59329B8791F00446474 /* RouletteView.swift */; };
+		2879B59829B87F1E00446474 /* Triple_Button.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2879B59729B87F1E00446474 /* Triple_Button.swift */; };
+		2879B59A29BB408600446474 /* Zero_Button.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2879B59929BB408600446474 /* Zero_Button.swift */; };
+		2879B59C29BCC66C00446474 /* TotalChips.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2879B59B29BCC66C00446474 /* TotalChips.swift */; };
+		2879B59E29C026DB00446474 /* background.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 2879B59D29C026DB00446474 /* background.mp3 */; };
+		2879B5A029C02DC100446474 /* coin.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 2879B59F29C02DC100446474 /* coin.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +34,21 @@
 		2879B56729AF2A3800446474 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		2879B56929AF2A3B00446474 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2879B56C29AF2A3B00446474 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		2879B57329AF2C3700446474 /* Number_Model.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Number_Model.swift; sourceTree = "<group>"; };
+		2879B57529AF2D2400446474 /* Number_arrary.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Number_arrary.swift; sourceTree = "<group>"; };
+		2879B57729B353FF00446474 /* Number_Button.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Number_Button.swift; sourceTree = "<group>"; };
+		2879B57929B3779700446474 /* TwoToOne_Button.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TwoToOne_Button.swift; sourceTree = "<group>"; };
+		2879B58129B382ED00446474 /* OneToNumber_Button.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OneToNumber_Button.swift; sourceTree = "<group>"; };
+		2879B58329B3830400446474 /* Color_Button.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Color_Button.swift; sourceTree = "<group>"; };
+		2879B58529B3831D00446474 /* OddEven_Button.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OddEven_Button.swift; sourceTree = "<group>"; };
+		2879B58829B38B6D00446474 /* Chips_Button.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Chips_Button.swift; sourceTree = "<group>"; };
+		2879B58F29B6E7A000446474 /* ChoseArray_Model.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChoseArray_Model.swift; sourceTree = "<group>"; };
+		2879B59329B8791F00446474 /* RouletteView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RouletteView.swift; sourceTree = "<group>"; };
+		2879B59729B87F1E00446474 /* Triple_Button.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Triple_Button.swift; sourceTree = "<group>"; };
+		2879B59929BB408600446474 /* Zero_Button.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Zero_Button.swift; sourceTree = "<group>"; };
+		2879B59B29BCC66C00446474 /* TotalChips.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TotalChips.swift; sourceTree = "<group>"; };
+		2879B59D29C026DB00446474 /* background.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = background.mp3; sourceTree = "<group>"; };
+		2879B59F29C02DC100446474 /* coin.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = coin.mp3; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,7 +83,12 @@
 			children = (
 				2879B56529AF2A3800446474 /* RouletteApp.swift */,
 				2879B56729AF2A3800446474 /* ContentView.swift */,
+				2879B59229B878E700446474 /* Roulette */,
+				2879B58729B383D200446474 /* Buton */,
+				2879B59129B6E7AA00446474 /* Model */,
 				2879B56929AF2A3B00446474 /* Assets.xcassets */,
+				2879B59D29C026DB00446474 /* background.mp3 */,
+				2879B59F29C02DC100446474 /* coin.mp3 */,
 				2879B56B29AF2A3B00446474 /* Preview Content */,
 			);
 			path = Roulette;
@@ -65,6 +100,40 @@
 				2879B56C29AF2A3B00446474 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		2879B58729B383D200446474 /* Buton */ = {
+			isa = PBXGroup;
+			children = (
+				2879B58829B38B6D00446474 /* Chips_Button.swift */,
+				2879B58129B382ED00446474 /* OneToNumber_Button.swift */,
+				2879B58329B3830400446474 /* Color_Button.swift */,
+				2879B58529B3831D00446474 /* OddEven_Button.swift */,
+				2879B57929B3779700446474 /* TwoToOne_Button.swift */,
+				2879B57729B353FF00446474 /* Number_Button.swift */,
+				2879B59929BB408600446474 /* Zero_Button.swift */,
+				2879B59729B87F1E00446474 /* Triple_Button.swift */,
+			);
+			path = Buton;
+			sourceTree = "<group>";
+		};
+		2879B59129B6E7AA00446474 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				2879B58F29B6E7A000446474 /* ChoseArray_Model.swift */,
+				2879B59B29BCC66C00446474 /* TotalChips.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		2879B59229B878E700446474 /* Roulette */ = {
+			isa = PBXGroup;
+			children = (
+				2879B59329B8791F00446474 /* RouletteView.swift */,
+				2879B57329AF2C3700446474 /* Number_Model.swift */,
+				2879B57529AF2D2400446474 /* Number_arrary.swift */,
+			);
+			path = Roulette;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -126,6 +195,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				2879B56D29AF2A3B00446474 /* Preview Assets.xcassets in Resources */,
+				2879B59E29C026DB00446474 /* background.mp3 in Resources */,
+				2879B5A029C02DC100446474 /* coin.mp3 in Resources */,
 				2879B56A29AF2A3B00446474 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -139,6 +210,19 @@
 			files = (
 				2879B56829AF2A3800446474 /* ContentView.swift in Sources */,
 				2879B56629AF2A3800446474 /* RouletteApp.swift in Sources */,
+				2879B57429AF2C3700446474 /* Number_Model.swift in Sources */,
+				2879B58229B382ED00446474 /* OneToNumber_Button.swift in Sources */,
+				2879B59429B8791F00446474 /* RouletteView.swift in Sources */,
+				2879B59029B6E7A000446474 /* ChoseArray_Model.swift in Sources */,
+				2879B57829B353FF00446474 /* Number_Button.swift in Sources */,
+				2879B57A29B3779700446474 /* TwoToOne_Button.swift in Sources */,
+				2879B58629B3831D00446474 /* OddEven_Button.swift in Sources */,
+				2879B57629AF2D2400446474 /* Number_arrary.swift in Sources */,
+				2879B58929B38B6D00446474 /* Chips_Button.swift in Sources */,
+				2879B59829B87F1E00446474 /* Triple_Button.swift in Sources */,
+				2879B58429B3830400446474 /* Color_Button.swift in Sources */,
+				2879B59C29BCC66C00446474 /* TotalChips.swift in Sources */,
+				2879B59A29BB408600446474 /* Zero_Button.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
